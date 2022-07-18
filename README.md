@@ -1,10 +1,10 @@
 
-![Node.js CI](https://github.com/nodeshift-starters/nodejs-rest-http-crud/workflows/ci/badge.svg)
-[![Coverage Status](https://coveralls.io/repos/github/nodeshift-starters/nodejs-rest-http-crud/badge.svg?branch=master)](https://coveralls.io/github/nodeshift-starters/nodejs-rest-http-crud?branch=master) 
+## README
 
-Example nodejs CRUD Application 
+Example nodejs REST/CRUD Application. The original code can be found at [nodeshift-starters/nodejs-rest-http-crud](https://github.com/nodeshift-starters/nodejs-rest-http-crud).
 
 ### Getting Started
+- bump 2
 
 #### Running Locally
 
