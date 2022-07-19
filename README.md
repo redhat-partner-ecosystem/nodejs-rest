@@ -8,6 +8,7 @@ Example nodejs REST/CRUD Application. The original code can be found at [nodeshi
 - bump 3
 - bump 4
 - bump 5
+- bump 6
 
 #### Running Locally
 
