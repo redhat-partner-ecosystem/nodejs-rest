@@ -11,6 +11,7 @@ Example nodejs REST/CRUD Application. The original code can be found at [nodeshi
 - bump 6
 - bump 7
 - bump 8 on branch develop
+- bump 9
 
 #### Running Locally
 
