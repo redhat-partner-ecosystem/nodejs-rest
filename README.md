@@ -4,14 +4,8 @@
 Example nodejs REST/CRUD Application. The original code can be found at [nodeshift-starters/nodejs-rest-http-crud](https://github.com/nodeshift-starters/nodejs-rest-http-crud).
 
 ### Getting Started
-- bump 2
-- bump 3
-- bump 4
-- bump 5
-- bump 6
-- bump 7
-- bump 8 on branch develop
-- bump 9
+
+feature-1, added a patch
 
 #### Running Locally
 
