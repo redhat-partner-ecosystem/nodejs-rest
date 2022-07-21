@@ -6,6 +6,7 @@ Example nodejs REST/CRUD Application. The original code can be found at [nodeshi
 ### Getting Started
 
 feature-1, added a patch
+feature-2, started
 
 #### Running Locally
 
