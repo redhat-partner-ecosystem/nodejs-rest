@@ -7,7 +7,7 @@ Example nodejs REST/CRUD Application. The original code can be found at [nodeshi
 
 feature-1, added a patch
 feature-2, started, added some more, some more to f2
-added to develop directly
+added to develop directly,2
 
 #### Running Locally
 
